@@ -1,0 +1,37 @@
+{
+  "name": "rank-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth/mongodb-adapter": "^2.0.0",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.5.0",
+    "dom-parser": "^0.1.6",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "lodash": "^4.17.21",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.0",
+    "next": "13.4.19",
+    "next-auth": "^4.23.1",
+    "postcss": "8.4.29",
+    "puppeteer": "^21.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "^2.8.0",
+    "sweetalert2": "^11.7.27",
+    "sweetalert2-react": "^0.8.3",
+    "sweetalert2-react-content": "^5.0.7",
+    "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.21",
+    "typescript": "5.2.2"
+  }
+}
